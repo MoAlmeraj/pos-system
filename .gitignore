@@ -1,0 +1,15 @@
+# .NET
+**/bin/
+**/obj/
+*.user
+.vs/
+
+# Sensitive config (create your own appsettings.json locally)
+**/appsettings.json
+
+# React
+**/node_modules/
+**/dist/
+
+# macOS
+.DS_Store
